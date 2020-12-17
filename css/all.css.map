@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.scss"],"names":[],"mappings":"AACA;EACI,YAFgB,EAAA;;AAIpB;EACI,oCAA4B;UAA5B,4BAA4B,EAAA","file":"all.css","sourcesContent":["$primary-color:green;\r\np{\r\n    color: $primary-color;\r\n}\r\nh2{\r\n    transform: translate(120deg);\r\n}\r\n"]}
